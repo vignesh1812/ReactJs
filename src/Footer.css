@@ -1,0 +1,22 @@
+
+.sociallinks ul li{
+    margin: 0px 24px; 
+}
+.sociallinks ul li a{
+    font-size: 2rem;
+    padding: 15px;
+    color: white;
+}
+
+/* .sociallinks ul li a:hover{
+    border-radius: 50px;
+    border: 1px solid #ffffff;
+} */
+
+.sociallinks ul li a:active{
+    
+    transition: 0.1s linear;
+    font-size: 1rem;
+    border-radius: 3px;
+    border: 1px solid #ffffff;
+}
